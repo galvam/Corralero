@@ -25,7 +25,7 @@ El 9,11% de la población es indigena, y el 3,52% de los habitantes habla una le
 <H1>Desempleo y economía en Corralero</H1>
 El 36,08% de la población mayor de 12 años esta ocupada laboralmente (el 55,12% de los hombres y el 16,08% de las mujeres).
 <IMG SRC="img/afromexicano 2.jfif" height="300px" widht="500px">
-<IMG SRC="img/imagen.jpg" height="300px" widht="500px">
+<IMG SRC="img/IMAGEN.jpg" height="300px" widht="500px">
 <H1>Viviendas e infraestructuras en Corralero</H1>
 En Corralero hay 438 viviendas. De ellas, el 93,54% cuentan con electricidad, el 0,26% tienen agua entubada, el 59,17% tiene excusado o sanitario, el 15,25% radio, el 79,84% televisión, el 55,30% refrigerador, el 17,05% lavadora, el 9,82% automóvil, el 1,03% una computadora personal, el 21,71% teléfono fijo, el 1,55% teléfono celular, y el 0,78% Internet.
 <H1>Intituciones Educativas de la localidad Corralero</H1>
@@ -36,14 +36,14 @@ Aparte de que hay 214 analfabetas de 15 y mas años, 36 de los jovenes entre 6 y
 Clima cálido subhúmedo con lluvias en verano. Temperatura media anual mayor de 26° C. Corralero es una playa localizada en la Costa Chica, territorio oaxaqueño. Es un auténtico paraíso para quienes habitan en el municipio de Pinotepa Nacional y lugares cercanos como Cuajinicuilapam, Putla de Guerrero, San Juan Cacahuatepec, Pinotepa de Don Luis y Jamiltepec, de entre varios otros en las entidades de Guerrero y Oaxaca.
 De acuerdo a una antigua tradición en Corralero, en esta playa de la Costa Chica oaxaqueña, el día primero de enero numerosos turistas acudieron a esta hermosa playa, prácticamente virgen, pero perfecta para tomar baños de sol, practicar la natación y gozar del ecoturismo.</P>
 Por toda la extensión de esta vasta playa y en sus limpias aguas, se pueden observar bellas chicas en traje de baño y jóvenes practicando deportes acuáticos. Pero no solamente Corralero se colma de visitantes los fines de semana y días de descanso, sino todas las demás playas del litoral oaxaqueño. Corralero se ubica en una zona geográfica caracterizada por su excelente clima, con altas temperaturas y la siempre grata brisa marina. Los vacacionistas gustan de realizar en su vasta extensión arenosa muchas actividades recreativas, como el futbol y el voleibol de playa.
-<IMG SRC="img/playa 4.jpg" height="400px" widht="500px">
-<IMG SRC="img/playa.jpg" height="400px" widht="500px">
+<IMG SRC="img/PLAYA 4.jpg" height="400px" widht="500px">
+<IMG SRC="img/PLAYA.jpg" height="400px" widht="500px">
 No obstante, es precioso mencionar que Corralero es una playa a mar abierto, de intenso oleaje y pendientes muy acentuadas. Por lo anterior, para gozar al máximo de Playa Corralero la mejor recomendación es sumergirse en sus áreas más tranquilas, especialmente en las partes donde hay escolleras, donde aparecen diminutas playas, magníficas para quienes gustan de los suaves oleajes. Para quienes habitan por estos rumbos costeros del territorio oaxaqueño, el turismo es su fuente de recursos prioritaria. Algo que distingue a playa Corralero es que en esta zona costera se puede nadar desde su orilla hasta unos cien metros mar adentro, puesto que no tiene una excesiva profundidad. En la playa, para disfrute de los visitantes, hay varios restaurantes palaperos en donde se preparan diversos platillos típicos con pescado y mariscos.
 <IMG SRC="img/platillo 1.jfif" height="400px" widht="500px">
 <IMG SRC="img/platillo 2.jfif" height="400px" widht=500px">
 También es aconsejable tomar excursiones por los alrededores de la laguna en lanchas guiadas por los lugareños. En los rústicos restaurantes de la zona se sirven especialidades tan deliciosas como el pescado a la talla, los tacos de hormiga roja. Las tichindas en coloradito y muchas otras más igual de suculentas.
 <IMG SRC="img/mar.jfif" height="400px" widht="500px">
-<IMG SRC="img/playa.jpg" height="400px" widht="500px">
+<IMG SRC="img/PLAYA.jpg" height="400px" widht="500px">
 </P>Para fines de alojamiento en Playa Corralero se alquilan algunas rústicas cabañas. Es uno de los lugares más atrayentes de las costas oaxaqueñas, en especial por la belleza de su ambiente silvestre, el gran potencial ecoturístico del lugar y la amabilidad de los lugareños.</P>
 </BODY>
 
