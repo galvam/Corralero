@@ -14,7 +14,7 @@ Latitud (Dec): 16.236389
 La localidad se encuentra a una mediana altura de 5 metros sobre el nivel del mar.</P>
 <H1>Población en Corralero</H1>
 En la localidad hay 889 hombres y 846 mujeres. El ratio mujeres/hombres es de 0,952, y el índice de fecundidad es de 3.11 hijos por mujer. Del total de la población, el 14,81% proviene de fuera del Estado de Oaxaca. El 17,41% de la población es analfabeta (el 18,00% de los hombres y el 16,78% de las mujeres). El grado de escolaridad es del 5.03 (4.79 en hombres y 5.28 en mujeres).
-<IMG SRC="img/la negrada.jpg" height="400px" widht="700px">
+<IMG SRC="img/LA NEGRADA.jpg" height="400px" widht="700px">
 <IMG SRC="img/afromexicano.jpg" height="400px" widht="600px">
 para visitar otro sitio dale click al siguiente link donde se habla mas a fondo sobre este tema:
 <a href="http://www.nuestro-mexico.com/Oaxaca/Santiago-Pinotepa-Nacional/Corralero/">Corralero</a>
