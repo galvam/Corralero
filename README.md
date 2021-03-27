@@ -29,7 +29,7 @@ El 36,08% de la población mayor de 12 años esta ocupada laboralmente (el 55,12
 <H1>Viviendas e infraestructuras en Corralero</H1>
 En Corralero hay 438 viviendas. De ellas, el 93,54% cuentan con electricidad, el 0,26% tienen agua entubada, el 59,17% tiene excusado o sanitario, el 15,25% radio, el 79,84% televisión, el 55,30% refrigerador, el 17,05% lavadora, el 9,82% automóvil, el 1,03% una computadora personal, el 21,71% teléfono fijo, el 1,55% teléfono celular, y el 0,78% Internet.
 <H1>Intituciones Educativas de la localidad Corralero</H1>
-La localidad cuenta con instituciones educativas de prescolar, para lo niños menores y pequeños a 5 años, tambien cuenta con una escuela primaria "Enrique C. Resamen", que cuenta con los niveles de primer grado hasta a sexto grado de primaria y cuenta con dos salones por grados, despues de esta esta la escuela telesecundaria "Calmecac" quien cuenta con los niveles basicos de estudios hasta tercer añoy tambien cuenta con dos salones por cada grado, es decir dos por años, y por ultimo se encuentra el medio superior "IEBO, Instituto de estudio de bachillerato del estado de oaxaca" plantel 260"corralero" quien cuenta con la educacion de tres años y es de media supperior. son las instutuciones educativas con las que cuenta la localidad.
+La localidad cuenta con instituciones educativas de prescolar, para lo niños menores y pequeños a 5 años, tambien cuenta con una escuela primaria "Enrique C. Resamen", que cuenta con los niveles de primer grado hasta a sexto grado de primaria y cuenta con dos salones por grados, despues de esta esta la escuela telesecundaria "Calmecac" quien cuenta con los niveles basicos de estudios hasta tercer añoy tambien cuenta con dos salones por cada grado, es decir dos por años, y por ultimo se encuentra el medio superior "IEBO, Instituto de Estudio de Bachillerato del Estado de Oaxaca" Plantel 260 "corralero" quien cuenta con la educacion de tres años y es de media supperior. son las instutuciones educativas con las que cuenta la localidad.
 <H1>Educacion Escolar en Corralero</H1>
 Aparte de que hay 214 analfabetas de 15 y mas años, 36 de los jovenes entre 6 y 14 años no ha asistido a la escuela.de la poblacion a partir de los 15 años, 202 no tienen ninguna escolaridad, 413 tienen escolaridad incompleta. 91 tienen una escolaridad basica y 70 cuentan con una educacion post-básica.
 <H1>Playa Corralero</H1>
@@ -44,7 +44,7 @@ No obstante, es precioso mencionar que Corralero es una playa a mar abierto, de 
 También es aconsejable tomar excursiones por los alrededores de la laguna en lanchas guiadas por los lugareños. En los rústicos restaurantes de la zona se sirven especialidades tan deliciosas como el pescado a la talla, los tacos de hormiga roja. Las tichindas en coloradito y muchas otras más igual de suculentas.
 <IMG SRC="img/mar.jfif" height="400px" widht="500px">
 <IMG SRC="img/PLAYA.jpg" height="400px" widht="500px">
-</P>Para fines de alojamiento en Playa Corralero se alquilan algunas rústicas cabañas. Es uno de los lugares más atrayentes de las costas oaxaqueñas, en especial por la belleza de su ambiente silvestre, el gran potencial ecoturístico del lugar y la amabilidad de los lugareños.</P>
+Para fines de alojamiento en Playa Corralero se alquilan algunas rústicas cabañas. Es uno de los lugares más atrayentes de las costas oaxaqueñas, en especial por la belleza de su ambiente silvestre, el gran potencial ecoturístico del lugar y la amabilidad de los lugareños.
 </BODY>
 
 
