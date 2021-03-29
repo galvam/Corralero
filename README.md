@@ -40,6 +40,7 @@ Por toda la extensión de esta vasta playa y en sus limpias aguas, se pueden obs
 <IMG SRC="img/PLAYA 4.jpg" height="400px" widht="500px">
 <IMG SRC="img/PLAYA.jpg" height="400px" widht="500px">
 No obstante, es precioso mencionar que Corralero es una playa a mar abierto, de intenso oleaje y pendientes muy acentuadas. Por lo anterior, para gozar al máximo de Playa Corralero la mejor recomendación es sumergirse en sus áreas más tranquilas, especialmente en las partes donde hay escolleras, donde aparecen diminutas playas, magníficas para quienes gustan de los suaves oleajes. Para quienes habitan por estos rumbos costeros del territorio oaxaqueño, el turismo es su fuente de recursos prioritaria. Algo que distingue a playa Corralero es que en esta zona costera se puede nadar desde su orilla hasta unos cien metros mar adentro, puesto que no tiene una excesiva profundidad. En la playa, para disfrute de los visitantes, hay varios restaurantes palaperos en donde se preparan diversos platillos típicos con pescado y mariscos.
+
 <IMG SRC="img/platillo 1.jfif" height="400px" widht="500px"> 
 <IMG SRC="img/platillo 2.jfif" height="400px" widht=500px">  
 También es aconsejable tomar excursiones por los alrededores de la laguna en lanchas guiadas por los lugareños. En los rústicos restaurantes de la zona se sirven especialidades tan deliciosas como el pescado a la talla, los tacos de hormiga roja. Las tichindas en coloradito y muchas otras más igual de suculentas.
