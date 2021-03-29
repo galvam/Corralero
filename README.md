@@ -1,7 +1,7 @@
+<HTML>
 <HEAD>
 <TITLE>LOCALIDAD DE CORRALERO</TITLE>
-<center><a href="http://www.websmultimedia.com/contador-de-visitas-gratis" title="Contador De Visitas Gratis">
-<img style="border: 0px solid; display: inline;" alt="contador de visitas" src="http://www.websmultimedia.com/contador-de-visitas.php?id=293887"></a><br><a href='http://www.websmultimedia.com/contador-de-visitas-gratis'>Contador de visitas</a><br><a href='http://www.websmultimedia.com/registro-de-marcas-y-logotipos'>registro marcas</a></center>
+
 </HEAD>
 
 <BODY><H1><marquee>LA LOCALIDAD DE CORRALERO</marquee></H1>
@@ -48,6 +48,11 @@ También es aconsejable tomar excursiones por los alrededores de la laguna en la
 Para fines de alojamiento en Playa Corralero se alquilan algunas rústicas cabañas. Es uno de los lugares más atrayentes de las costas oaxaqueñas, en especial por la belleza de su ambiente silvestre, el gran potencial ecoturístico del lugar y la amabilidad de los lugareños.
 </BODY>
 
+</HTML>
+
+<center><a href="http://www.websmultimedia.com/contador-de-visitas-gratis" title="Contador De Visitas Gratis">
+<img style="border: 0px solid; display: inline;" alt="contador de visitas" src="http://www.websmultimedia.com/contador-de-visitas.php?id=293887"></a><br><a href='http://www.websmultimedia.com/contador-de-visitas-gratis'>Contador de visitas</a><br><a href='http://www.websmultimedia.com/registro-de-marcas-y-logotipos'>registro marcas</a></center>
+
 <div id="disqus_thread"></div>
 <script>
     /**
@@ -68,4 +73,3 @@ Para fines de alojamiento en Playa Corralero se alquilan algunas rústicas caba�
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-</HTML>
